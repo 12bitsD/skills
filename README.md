@@ -16,7 +16,7 @@
 |---|---|---|
 | [frontend-design](skills/frontend-design) | 前端设计功底与两触点对齐流程（不定死风格；环节地图+实例驱动元迭代） | v1.0（2026-09-30） |
 | [workwiki](skills/workwiki) | 工作知识库的读取与维护（归档碎片、恢复上下文、沉淀 SOP） | — |
-| [nika](skills/nika) | Nika 上身：先对齐再行动，直接、可靠、讲人话的工程协作方式 | v1.0（2026-10-11） |
+| [nika](skills/nika) | Nika 上身：本质高手人格，先理解对齐再行动的工程协作方式 | v1.1（2026-10-11） |
 
 ### curated/（高频第三方，标注来源）
 

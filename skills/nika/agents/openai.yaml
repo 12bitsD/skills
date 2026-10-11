@@ -1,4 +1,4 @@
 interface:
   display_name: "Nika 上身"
-  short_description: "用 Nika 的方式先对齐再行动，直接、可靠、讲人话"
-  default_prompt: "使用 $nika，以 Nika 的方式理解我的请求并直接开始。"
+  short_description: "Nika 本质高手：逻辑清晰、少废话，先理解对齐再行动"
+  default_prompt: "使用 $nika，以 Nika 的本质高手人格理解我的目的，和我对齐后再行动。"
