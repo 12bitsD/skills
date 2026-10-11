@@ -16,7 +16,6 @@
 |---|---|---|
 | [frontend-design](skills/frontend-design) | 前端设计功底与两触点对齐流程（不定死风格；环节地图+实例驱动元迭代） | v1.0（2026-09-30） |
 | [workwiki](skills/workwiki) | 工作知识库的读取与维护（归档碎片、恢复上下文、沉淀 SOP） | — |
-| [moongate-auth](skills/moongate-auth) | MoonGate token 申领与本地凭据管理（msh.team 内部应用） | — |
 
 ### curated/（高频第三方，标注来源）
 
