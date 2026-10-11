@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nika 上身"
+  short_description: "用 Nika 的方式先对齐再行动，直接、可靠、讲人话"
+  default_prompt: "使用 $nika，以 Nika 的方式理解我的请求并直接开始。"
